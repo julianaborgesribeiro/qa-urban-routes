@@ -1,29 +1,41 @@
-# qa-urban-routes
-Projeto prático de QA com execução de testes de regressão, identificação de falhas e documentação de bugs na aplicação Urban Routes.
-
 Urban Routes – Teste de Regressão
 
-Sobre o projeto: Projeto prático desenvolvido durante a formação em QA pela TripleTen, com foco na execução de testes de regressão da aplicação Urban Routes, utilizada para criação de rotas e cálculo de tempo e custo de viagens.
+1. Sobre o projeto: Projeto prático desenvolvido durante a formação em QA pela TripleTen, com foco nos testes de regressão da aplicação Urban Routes, utilizada para criação de rotas e cálculo de tempo e custo de viagens.
 
-Objetivo: Executar casos de teste, verificar os resultados esperados e reais, identificar falhas e documentar bugs encontrados.
+2. Objetivo: Executar casos de teste, verificar resultados esperados e reais, identificar falhas e documentar bugs.
 
-Atividades realizadas:
+3. Escopo dos testes
 
-Execução de 24 casos de teste;
-Verificação de funcionalidades da aplicação;
-Identificação e documentação de bugs;
-Classificação dos defeitos por prioridade.
+- Navegação e zoom do mapa;
+- Campos de origem e destino;
+- Pesquisa e seleção de locais;
+- Exibição de pinos, ícones e objetos no mapa;
+- Modos de visualização e funcionalidades da interface.
 
-Ferramentas utilizadas: Google Chrome e Google Sheets
+4. Atividades realizadas
 
-Resultado:
+- Execução e classificação dos casos de teste;
+- Análise dos resultados esperados e reais;
+- Identificação e documentação de bugs;
+- Classificação dos defeitos por prioridade.
 
-Testes aprovados: 15
-Testes reprovados: 9
-Bugs documentados: 9
+5. Ferramentas utilizadas
 
-Taxa de aprovação: 62,5%.
+- Google Chrome;
+- Google Sheets.
 
-Documentação: Planilha contendo os casos de teste executados e os respectivos relatórios de bugs.
+6. Resultados
 
-Aprendizados: Prática em testes de regressão, análise de resultados, identificação de falhas e documentação de bugs.
+- Casos executados: 24
+- Aprovados: 15
+- Reprovados: 9
+- Bugs documentados: 9
+- Taxa de aprovação: 62,5%.
+
+7. Prioridade dos bugs
+
+- Crítico: 1
+- Grande: 6
+- Pequeno: 2
+
+8. Aprendizados: Experiência prática em testes de regressão, análise de resultados, identificação de falhas e documentação de bugs.
