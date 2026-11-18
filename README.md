@@ -1,4 +1,4 @@
-Urban Routes – Teste de Regressão
+Projeto - Urban Routes – Teste de Regressão
 
 1. Sobre o projeto: Projeto prático desenvolvido durante a formação em QA pela TripleTen, com foco nos testes de regressão da aplicação Urban Routes, utilizada para criação de rotas e cálculo de tempo e custo de viagens.
 
